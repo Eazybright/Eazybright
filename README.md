@@ -3,13 +3,13 @@
 
 ### Hi there 👋, my name is Ezekiel.
 
-#### I am a backend developer
+#### I am a software developer
 
-I am a persistent goal oriented individual. I love writing softwares. A Computer engineer in prospect and a software developer. 
+I am a persistent goal oriented individual. I love writing softwares. A computer engineer in prospect and a software developer. 
 
 Skills: PHP / LARAVEL / MySQL / JS / HTML / CSS
 
-- 🔭 I’m currently working on getting better at my chosen field. I created a Laravel Repository Package, you can check it out https://github.com/Eazybright/repository-package
+- 🔭 I’m currently working on getting better at my chosen field. I created a repository package for laravel projects, you can check it out https://github.com/Eazybright/repository-package
 - 👯 I’m looking to collaborate on Open source projects ... 
 - 🤔 I’m looking for help with getting remote job. Please hire me :cry: ...
 - 📫 How to reach me: doneazy911@gmail.com ...
