@@ -20,7 +20,5 @@ Skills: PHP / LARAVEL / MySQL / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eazybright&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/eazybright)
-
 
  
