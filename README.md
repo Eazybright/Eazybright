@@ -10,8 +10,7 @@ I am a persistent goal oriented individual. I love writing softwares. A computer
 Skills: PHP / LARAVEL / MySQL / JS / HTML / CSS
 
 - 🔭 I’m currently working on getting better at my chosen field. I created a repository package for laravel projects, you can check it out https://github.com/Eazybright/repository-package
-- 👯 I’m looking to collaborate on Open source projects 
-- 🤔 I’m looking for help with getting remote job. Please hire me :cry: 
+- 👯 I’m looking to collaborate on Open source projects  
 - 📫 How to reach me: doneazy911@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I play drums 
