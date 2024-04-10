@@ -5,7 +5,7 @@
 
 #### I am a software developer
 
-I am a persistent goal oriented individual. I love writing softwares. A computer engineer in prospect and a software developer. 
+I love writing software to solve problems. 
 
 Skills: RUBY / PHP / LARAVEL / MySQL / JAVASCRIPT / HTML / CSS / VUEJS
 
